@@ -17,7 +17,7 @@ Maka dari itu saya membuat aplikasi ini dengan maksud untuk mendeteksi diabetes 
 <img src="documentary/dataset.PNG">
 
 ## Pairplot Dataset
-<img src="documentary/pairplot.PNG">
+<img src="documentary/pairplot.png">
 
 ## Tingkat Kepentingan Data
 <img src="documentary/importance data.PNG">
